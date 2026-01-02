@@ -5,7 +5,9 @@ A full-stack web application built with **Next.js** that allows users to exchang
 ## Live Demo
 
 The frontend is deployed on Vercel:
-****
+**https://shelf-share-9scsf9cpy-muhammad-alis-projects-1ad02fe6.vercel.app/
+
+**
 
 ---
 
